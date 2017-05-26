@@ -531,7 +531,7 @@ p {
   border: 5px solid rgba(51,21,21,0.8);
 }
 .jumbo-text {
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   color: #dbc08c;
 }
 
