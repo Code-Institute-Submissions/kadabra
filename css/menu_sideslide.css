@@ -120,10 +120,10 @@ body,
 	z-index: 1001;
 	width: 300px;
 	height: 100%;
-	background: rgba(51, 12, 12, 0.3);
-	padding-top: 18em;
-	padding-left: 8em;
-	font-size: 0.85em;
+	background: rgba(51, 12, 12, 0.9);
+	padding-top: 12em;
+	padding-left: 3.5em;
+	font-size: 1.4em;
 	-webkit-transform: translate3d(-320px,0,0);
 	transform: translate3d(-320px,0,0);
 	-webkit-transition: -webkit-transform 0.4s;
@@ -133,6 +133,7 @@ body,
 	background-image: url(../images/curtain-2.png);
 	background-repeat: no-repeat;
 	font-family: 'Petit Formal Script', cursive;
+	text-shadow:1px 1px 1px #000, -1px -1px 1px #000;
 }
 
 .menu, 
