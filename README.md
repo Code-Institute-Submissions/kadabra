@@ -1,5 +1,7 @@
-# Kadabra Entertainment:
+# [Kadabra Entertainment](https://mormoran.github.io/kadabra/index.html):
 Company specialised in providing corporate entertainment, artists and performers for parties and events
+
+[Deployed website link.](https://mormoran.github.io/kadabra/index.html)
 
 ## UX
 #### Scope
