@@ -117,9 +117,9 @@ Eventually, it would be ideal to feature a calendar showing available dates, fil
 
 ### Bugs and Issues
 
-    - While most of the content is responsive, some unusual and especially smaller screen sizes might crop a portion of the feature images.
-    - On the entertainers landing page, smaller screen sizes cause the secondary (smaller) image of the artist to move, and it ends up partially covering some of the text describing what the act is about.
-    - As a starter website (Stream 1 final project) finished in early 2017, my general knowledge of modern libraries and practicality of maintenance was still in develpment. When creating the website, I wanted to try something other than just a static page, and I chose "flashier" effects. As such, some of the addon help libraries are nearly a decade old at this point, and attempting to update them to modern standards would require a complete rewrite of the entire project. I have decided to keep the website nearly "as is" while only updating some glaring issues. Possibly in the future I may rewrite this under a whole different project repository. This being my very first completed website holds some significance in showcasing how much I could accomplish in 1 month of learning HTML and JS techniques.
+- While most of the content is responsive, some unusual and especially smaller screen sizes might crop a portion of the feature images.
+- On the entertainers landing page, smaller screen sizes cause the secondary (smaller) image of the artist to move, and it ends up partially covering some of the text describing what the act is about.
+- As a starter website (Stream 1 final project) finished in early 2017, my general knowledge of modern libraries and practicality of maintenance was still in develpment. When creating the website, I wanted to try something other than just a static page, and I chose "flashier" effects. As such, some of the addon help libraries are nearly a decade old at this point, and attempting to update them to modern standards would require a complete rewrite of the entire project. I have decided to keep the website nearly "as is" while only updating some glaring issues. Possibly in the future I may rewrite this under a whole different project repository. This being my very first completed website holds some significance in showcasing how much I could accomplish in 1 month of learning HTML and JS techniques.
 
 ## Deployment
 
